@@ -1,7 +1,6 @@
 # PySpark_Practise
 PySpark concepts and practise
 
-%md
 ### 1. Spark Architecture Components
 > A. Driver Program
 ✅ What is it?
